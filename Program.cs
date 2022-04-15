@@ -90,7 +90,6 @@ namespace Ctasks2
             Console.WriteLine($"Saldo Atual: {conta.Saldo}");
             Console.WriteLine();
             Console.WriteLine();
-            Console.Clear();
             Console.WriteLine("Obrigado pela confiança em nosso Banco! :)");
 
 
