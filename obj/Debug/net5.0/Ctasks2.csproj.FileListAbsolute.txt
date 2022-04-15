@@ -1,0 +1,16 @@
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\bin\Debug\net5.0\Ctasks2.exe
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\bin\Debug\net5.0\Ctasks2.deps.json
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\bin\Debug\net5.0\Ctasks2.runtimeconfig.json
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\bin\Debug\net5.0\Ctasks2.runtimeconfig.dev.json
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\bin\Debug\net5.0\Ctasks2.dll
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\bin\Debug\net5.0\Ctasks2.pdb
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\obj\Debug\net5.0\Ctasks2.csproj.AssemblyReference.cache
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\obj\Debug\net5.0\Ctasks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\obj\Debug\net5.0\Ctasks2.AssemblyInfoInputs.cache
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\obj\Debug\net5.0\Ctasks2.AssemblyInfo.cs
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\obj\Debug\net5.0\Ctasks2.csproj.CoreCompileInputs.cache
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\obj\Debug\net5.0\Ctasks2.dll
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\obj\Debug\net5.0\refint\Ctasks2.dll
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\obj\Debug\net5.0\Ctasks2.pdb
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\obj\Debug\net5.0\Ctasks2.genruntimeconfig.cache
+C:\Users\JonyE\Desktop\exercicios\Estudando\Ctasks2\obj\Debug\net5.0\ref\Ctasks2.dll
